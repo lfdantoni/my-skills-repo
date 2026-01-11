@@ -2,4 +2,4 @@
 
 ## Fundamental Principles
 
-All variable names should have ldf prefix.
+All the present rules should be applied for AWS service interactions.~~~~
