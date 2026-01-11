@@ -1,4 +1,4 @@
-# Variable naming
+# Global Variable Naming Convention (Mandatory)
 
 ## Fundamental Principles
 
