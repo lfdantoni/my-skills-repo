@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "typescript-specialist",
+      "path": "typescript-specialist.md",
+      "description": "TypeScript Specialist Rules and Principles"
+    },
+    {
+      "name": "var-naming",
+      "path": "var-naming.md",
+      "description": "MANDATORY: Variable Naming Convention"
+    },
+    {
+      "name": "aws",
+      "path": "aws.md",
+      "description": "AWS Service Integration Standards"
+    }
+  ]
+}
